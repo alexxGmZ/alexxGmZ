@@ -16,7 +16,7 @@
 | Desktop       | [![Desktop](https://skillicons.dev/icons?i=electron)](https://skillicons.dev)                    |
 | Android       | <img src="https://www.svgrepo.com/show/353536/capacitorjs-icon.svg" width="45"/>                 |
 | Tools         | [![Tools](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) <img src="https://seeklogo.com/images/T/tmux-logo-E71523388A-seeklogo.com.png" width="45"/> |
-| Documentation | [![Tools](https://skillicons.dev/icons?i=markdown)](https://skillicons.dev)                      |
+| Documentation | [![Tools](https://skillicons.dev/icons?i=markdown)](https://skillicons.dev) <img src="https://entangled.github.io/bootstrap/img/pandoc.png" width="65"/>                  |
 | Editor        | [![Editor](https://skillicons.dev/icons?i=vim,neovim,sublime)](https://skillicons.dev)           |
 | Database      | [![Database](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)             |
 | OS            | [![OS](https://skillicons.dev/icons?i=linux,mint)](https://skillicons.dev)                       |
