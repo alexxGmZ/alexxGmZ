@@ -2,8 +2,11 @@
 
 <p align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexxGmZ&layout=compact&theme=tokyonight&langs_count=10">
-      <img src="https://github-readme-stats.vercel.app/api?username=alexxGmZ&count_private=true&theme=tokyonight&show_icons=true">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexxGmZ&layout=compact&theme=transparent&langs_count=10&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api?username=alexxGmZ&count_private=true&theme=transparent&show_icons=true&hide_border=true">
+   </a>
+   <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=alexxGmZ&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
    </a>
 </p>
 
