@@ -14,17 +14,61 @@
    </a>
 </p>
 
-<br>
+<h3 align="center">Frontend</h3>
+<p align="center">
+   <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,js,html">
+   </a>
+</p>
 
-| Field         | Technology                                                                                       |
-|-------------- | ------------------------------------------------------------------------------------------------ |
-| Frontend      | [![Frontend](https://skillicons.dev/icons?i=tailwind,bootstrap,js,html)](https://skillicons.dev) |
-| Backend       | [![Backend](https://skillicons.dev/icons?i=bash,express,go,lua,nodejs)](https://skillicons.dev)  |
-| Desktop       | [![Desktop](https://skillicons.dev/icons?i=electron)](https://skillicons.dev)                    |
-| Android       | <img src="https://www.svgrepo.com/show/353536/capacitorjs-icon.svg" width="45"/>                 |
-| Tools         | [![Tools](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) <img src="https://seeklogo.com/images/T/tmux-logo-E71523388A-seeklogo.com.png" width="45"/> |
-| Documentation | [![Tools](https://skillicons.dev/icons?i=markdown)](https://skillicons.dev) <img src="https://entangled.github.io/bootstrap/img/pandoc.png" width="65"/>                  |
-| Editor        | [![Editor](https://skillicons.dev/icons?i=vim,neovim,sublime)](https://skillicons.dev)           |
-| Database      | [![Database](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)             |
-| OS            | [![OS](https://skillicons.dev/icons?i=linux,mint)](https://skillicons.dev)                       |
+<h3 align="center">Backend</h3>
+<p align="center">
+   <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=bash,express,go,lua,nodejs,mysql,postgres">
+   </a>
+</p>
 
+<h3 align="center">Desktop</h3>
+<p align="center">
+   <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=electron">
+   </a>
+</p>
+
+<h3 align="center">Android</h3>
+<p align="center">
+   <a>
+      <img src="https://www.svgrepo.com/show/353536/capacitorjs-icon.svg" width="45">
+   </a>
+</p>
+
+<h3 align="center">Editors</h3>
+<p align="center">
+   <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vim,neovim,sublime">
+      <img src="https://github.com/tmux/tmux/raw/master/logo/tmux-logo-medium.png?raw=true" width="175">
+   </a>
+</p>
+
+<h3 align="center">Version Control</h3>
+<p align="center">
+   <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github">
+   </a>
+</p>
+
+<h3 align="center">Note taking & Documentation</h3>
+<p align="center">
+   <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=markdown">
+      <img src="https://entangled.github.io/bootstrap/img/pandoc.png" width="65">
+   </a>
+</p>
+
+<h3 align="center">OS</h3>
+<p align="center">
+   <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=linux,mint">
+      <img src="https://www.svgrepo.com/show/452201/fedora.svg" width="52">
+   </a>
+</p>
