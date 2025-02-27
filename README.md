@@ -46,8 +46,8 @@
 <p align="center">
    <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=vim,neovim,sublime">
-      <img src="https://github.com/tmux/tmux/raw/master/logo/tmux-logo-medium.png?raw=true" width="175">
    </a>
+   <img src="https://github.com/tmux/tmux/raw/master/logo/tmux-logo-medium.png?raw=true" width="175">
 </p>
 
 <h3 align="center">Version Control</h3>
@@ -61,14 +61,14 @@
 <p align="center">
    <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=markdown">
-      <img src="https://entangled.github.io/bootstrap/img/pandoc.png" width="65">
    </a>
+   <img src="https://entangled.github.io/bootstrap/img/pandoc.png" width="65">
 </p>
 
 <h3 align="center">OS</h3>
 <p align="center">
    <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=linux,mint">
-      <img src="https://www.svgrepo.com/show/452201/fedora.svg" width="52">
    </a>
+   <img src="https://www.svgrepo.com/show/452201/fedora.svg" width="52">
 </p>
