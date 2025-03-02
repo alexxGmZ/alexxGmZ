@@ -44,7 +44,7 @@
 
 <h3 align="center">Editors</h3>
 <p align="center">
-   <a href="https://skillicons.dev">
+   <a href="https://skillicons.dev" style="text-decoration: none">
       <img src="https://skillicons.dev/icons?i=vim,neovim,sublime">
    </a>
    <img src="https://github.com/tmux/tmux/raw/master/logo/tmux-logo-medium.png?raw=true" width="175">
@@ -59,7 +59,7 @@
 
 <h3 align="center">Note taking & Documentation</h3>
 <p align="center">
-   <a href="https://skillicons.dev">
+   <a href="https://skillicons.dev" style="text-decoration: none">
       <img src="https://skillicons.dev/icons?i=markdown">
    </a>
    <img src="https://entangled.github.io/bootstrap/img/pandoc.png" width="65">
@@ -67,7 +67,7 @@
 
 <h3 align="center">OS</h3>
 <p align="center">
-   <a href="https://skillicons.dev">
+   <a href="https://skillicons.dev" style="text-decoration: none">
       <img src="https://skillicons.dev/icons?i=linux,mint">
    </a>
    <img src="https://www.svgrepo.com/show/452201/fedora.svg" width="52">
