@@ -1,5 +1,7 @@
 <h1 align="center">Hello</h1>
 
+**Looking for a job...** Preferably back-end development.
+
 <p align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=alexxGmZ&count_private=true&theme=transparent&show_icons=true&hide_border=true">
