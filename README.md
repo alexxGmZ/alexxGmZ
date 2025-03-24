@@ -2,6 +2,13 @@
 
 **Looking for a job...** Preferably back-end development.
 
+**E-Ink colorschemes/themes:**
+
+* [Neovim](https://github.com/alexxGmZ/e-ink.nvim)
+* [Kitty](https://github.com/alexxGmZ/e-ink.kitty)
+* [cmus](https://github.com/alexxGmZ/e-ink.cmus)
+* [termux](https://github.com/alexxGmZ/e-ink.termux)
+
 <p align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=alexxGmZ&count_private=true&theme=transparent&show_icons=true&hide_border=true">
