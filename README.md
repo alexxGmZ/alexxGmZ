@@ -8,6 +8,7 @@
 * [Kitty](https://github.com/alexxGmZ/e-ink.kitty)
 * [cmus](https://github.com/alexxGmZ/e-ink.cmus)
 * [termux](https://github.com/alexxGmZ/e-ink.termux)
+* [Ghostty](https://github.com/alexxGmZ/e-ink.ghostty)
 
 <p align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats">
