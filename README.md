@@ -1,6 +1,6 @@
 <h1 align="center">Hello</h1>
 
-**Looking for a job...** Preferably back-end development.
+<!-- **Looking for a job...** Preferably back-end development. -->
 
 **E-Ink colorschemes/themes:**
 
