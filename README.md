@@ -108,6 +108,9 @@
       <img src="https://skillicons.dev/icons?i=markdown">
    </a>
    <img src="https://entangled.github.io/bootstrap/img/pandoc.png" width="65">
+   <a href="https://typst.app/">
+      <img src="https://cdn.brandfetch.io/typst.app/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed" width="47">
+   </a>
 </p>
 
 <h3 align="center">OS</h3>
