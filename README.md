@@ -9,6 +9,7 @@
 * [cmus](https://github.com/alexxGmZ/e-ink.cmus)
 * [termux](https://github.com/alexxGmZ/e-ink.termux)
 * [Ghostty](https://github.com/alexxGmZ/e-ink.ghostty)
+* [Sublime Text](https://github.com/alexxGmZ/e-ink.subl)
 
 <p align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats">
